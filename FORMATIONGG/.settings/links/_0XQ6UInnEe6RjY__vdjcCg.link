@@ -22,5 +22,27 @@
       "id" : "_lvc2BonfEe6RjY__vdjcCg",
       "name" : "Entrepot_de_donnees_Database"
     } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_QsRXIInfEe6RjY__vdjcCg",
+    "parameterList" : [ {
+      "id" : "_QsbIIonfEe6RjY__vdjcCg",
+      "name" : "Gestion_de_commande_Server"
+    }, {
+      "id" : "_QsbII4nfEe6RjY__vdjcCg",
+      "name" : "Gestion_de_commande_Login"
+    }, {
+      "id" : "_QsbIJYnfEe6RjY__vdjcCg",
+      "name" : "Gestion_de_commande_Port"
+    }, {
+      "id" : "_QsbIJInfEe6RjY__vdjcCg",
+      "name" : "Gestion_de_commande_AdditionalParams"
+    }, {
+      "id" : "_QsbIJonfEe6RjY__vdjcCg",
+      "name" : "Gestion_de_commande_Database"
+    }, {
+      "id" : "_QsbIIYnfEe6RjY__vdjcCg",
+      "name" : "Gestion_de_commande_Password"
+    } ]
   } ]
 }
