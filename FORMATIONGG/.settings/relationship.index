@@ -157,15 +157,19 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_Z3HOsIniEe6RjY__vdjcCg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "_c0efEInfEe6RjY__vdjcCg",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_Z3HOsIniEe6RjY__vdjcCg - MainActivity",
+    "id" : "_G8CMIInfEe6RjY__vdjcCg - src_product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_c0efEInfEe6RjY__vdjcCg - trg_prod_family",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_c0efEInfEe6RjY__vdjcCg - trg_product",
     "version" : "Latest",
     "type" : "schema"
   } ]
