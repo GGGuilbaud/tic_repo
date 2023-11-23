@@ -79,7 +79,11 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_c0efEInfEe6RjY__vdjcCg - trg_country",
+    "id" : "_G8CMIInfEe6RjY__vdjcCg - src_city",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_c0efEInfEe6RjY__vdjcCg - trg_region",
     "version" : "Latest",
     "type" : "schema"
   } ]
