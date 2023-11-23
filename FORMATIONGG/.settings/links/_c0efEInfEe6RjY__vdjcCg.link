@@ -1,0 +1,26 @@
+{
+  "itemId" : "_c0efEInfEe6RjY__vdjcCg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_lvTsEInfEe6RjY__vdjcCg",
+    "parameterList" : [ {
+      "id" : "_lvc2AYnfEe6RjY__vdjcCg",
+      "name" : "Entrepot_de_donnees_Password"
+    }, {
+      "id" : "_lvc2AonfEe6RjY__vdjcCg",
+      "name" : "Entrepot_de_donnees_Server"
+    }, {
+      "id" : "_lvc2A4nfEe6RjY__vdjcCg",
+      "name" : "Entrepot_de_donnees_Login"
+    }, {
+      "id" : "_lvc2BInfEe6RjY__vdjcCg",
+      "name" : "Entrepot_de_donnees_AdditionalParams"
+    }, {
+      "id" : "_lvc2BYnfEe6RjY__vdjcCg",
+      "name" : "Entrepot_de_donnees_Port"
+    }, {
+      "id" : "_lvc2BonfEe6RjY__vdjcCg",
+      "name" : "Entrepot_de_donnees_Database"
+    } ]
+  } ]
+}
