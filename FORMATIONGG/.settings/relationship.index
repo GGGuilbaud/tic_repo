@@ -1,1 +1,20 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_0XQ6UInnEe6RjY__vdjcCg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_lvTsEInfEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_c0efEInfEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_c0efEInfEe6RjY__vdjcCg - trg_region",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
