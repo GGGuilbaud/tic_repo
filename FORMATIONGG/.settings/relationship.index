@@ -175,6 +175,37 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_ygiv0IoUEe6RjY__vdjcCg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_QsRXIInfEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_lvTsEInfEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_G8CMIInfEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Z3HOsIniEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_c0efEInfEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Z3HOsIniEe6RjY__vdjcCg - MainActivity",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_z_3C8IoTEe6RjY__vdjcCg",
     "version" : "0.1",
     "type" : "job"
