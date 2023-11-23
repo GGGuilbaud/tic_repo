@@ -79,11 +79,27 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_G8CMIInfEe6RjY__vdjcCg - src_region",
+    "id" : "_k239UInhEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_vrOtMIngEe6RjY__vdjcCg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_G8CMIInfEe6RjY__vdjcCg - src_customer",
     "version" : "Latest",
     "type" : "schema"
   }, {
-    "id" : "_c0efEInfEe6RjY__vdjcCg - trg_region",
+    "id" : "_c0efEInfEe6RjY__vdjcCg - trg_customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_k239UInhEe6RjY__vdjcCg - DATA_SRC_SALES_PERSON",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_vrOtMIngEe6RjY__vdjcCg - DATA_SRC_AGE_GROUP",
     "version" : "Latest",
     "type" : "schema"
   } ]
