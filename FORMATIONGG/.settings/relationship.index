@@ -195,6 +195,10 @@
     "id" : "_c0efEInfEe6RjY__vdjcCg",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_c0efEInfEe6RjY__vdjcCg - trg_product",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
