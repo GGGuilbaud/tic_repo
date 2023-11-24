@@ -195,11 +195,7 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_JAWQcInjEe6RjY__vdjcCg - ORDERS",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_V9IpMIqiEe6lIsjcMdYhIg - ORDERS",
+    "id" : "_QqWuwInjEe6RjY__vdjcCg - ORDERSLINE",
     "version" : "Latest",
     "type" : "schema"
   } ]
